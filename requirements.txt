@@ -1,2 +1,2 @@
-aprslib==0.6.46
+aprslib==0.7.1
 paho-mqtt==1.4.0
